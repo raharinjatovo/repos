@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1593614555 source:c:\users\mbolatiana\documents\final\main.cpp
+	<iostream>
+	"Nombres.h"
+	"Point.h"
+	<stdlib.h>
+	<time.h>
+	<bits/stdc++.h>
+
+1593599697 c:\users\mbolatiana\documents\final\nombres.h
+	<iostream>
+
+1593614210 c:\users\mbolatiana\documents\final\point.h
+	<iostream>
+
+1593614596 source:c:\users\mbolatiana\documents\final\nombres.cpp
+	"Point.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<bits/stdc++.h>
+
